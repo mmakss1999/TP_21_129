@@ -7,7 +7,7 @@ package javaapplication1;
 
 /**
  *
- * @author I am
+ * @author I am Geniy
  */
 public class JavaApplication1 {
 
